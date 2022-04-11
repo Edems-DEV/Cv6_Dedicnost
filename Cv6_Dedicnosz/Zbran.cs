@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Cv6_Dedicnosz
 {
-    class Zbran
+    public class Zbran
     {
         protected int poskozeni; //demage
         protected int odolnost; //durability
@@ -17,9 +17,10 @@ namespace Cv6_Dedicnosz
             this.odolnost = odolnost;
         }
 
-        public virtual void Zautoc()
+        public virtual int Zautoc()
         {
             Console.WriteLine("Zbraň nemůže zaútočit.");
+            return 0;
         }
     }
 }

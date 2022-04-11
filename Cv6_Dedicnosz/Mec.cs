@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Cv6_Dedicnosz
 {
-    class Mec : Zbran
+    public class Mec : Zbran
     {
         private bool kritickyZasah;
 
@@ -15,7 +15,7 @@ namespace Cv6_Dedicnosz
             this.kritickyZasah = kritickyZasah;
         }
 
-        public override void Zautoc()
+        public override int Zautoc()
         {
             if (odolnost > 0)
             {
@@ -30,7 +30,9 @@ namespace Cv6_Dedicnosz
             else
             {
                 base.Zautoc();
+                return 0; //proc nefunguje -> base. je uz return ?
             }
+            return poskozeni;
         }
     }
 }
