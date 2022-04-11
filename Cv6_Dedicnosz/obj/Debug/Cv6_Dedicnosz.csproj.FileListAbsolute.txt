@@ -1,0 +1,14 @@
+C:\Users\DolanskyAdam\Desktop\Cv6_Dedicnosz\Cv6_Dedicnosz\bin\Debug\Cv6_Dedicnosz.exe.config
+C:\Users\DolanskyAdam\Desktop\Cv6_Dedicnosz\Cv6_Dedicnosz\bin\Debug\Cv6_Dedicnosz.exe
+C:\Users\DolanskyAdam\Desktop\Cv6_Dedicnosz\Cv6_Dedicnosz\bin\Debug\Cv6_Dedicnosz.pdb
+C:\Users\DolanskyAdam\Desktop\Cv6_Dedicnosz\Cv6_Dedicnosz\obj\Debug\Cv6_Dedicnosz.csproj.AssemblyReference.cache
+C:\Users\DolanskyAdam\Desktop\Cv6_Dedicnosz\Cv6_Dedicnosz\obj\Debug\Cv6_Dedicnosz.csproj.CoreCompileInputs.cache
+C:\Users\DolanskyAdam\Desktop\Cv6_Dedicnosz\Cv6_Dedicnosz\obj\Debug\Cv6_Dedicnosz.exe
+C:\Users\DolanskyAdam\Desktop\Cv6_Dedicnosz\Cv6_Dedicnosz\obj\Debug\Cv6_Dedicnosz.pdb
+C:\Users\Já\Documents\GitHub\Cv6_Dedicnost\Cv6_Dedicnosz\bin\Debug\Cv6_Dedicnosz.exe.config
+C:\Users\Já\Documents\GitHub\Cv6_Dedicnost\Cv6_Dedicnosz\bin\Debug\Cv6_Dedicnosz.exe
+C:\Users\Já\Documents\GitHub\Cv6_Dedicnost\Cv6_Dedicnosz\bin\Debug\Cv6_Dedicnosz.pdb
+C:\Users\Já\Documents\GitHub\Cv6_Dedicnost\Cv6_Dedicnosz\obj\Debug\Cv6_Dedicnosz.csprojAssemblyReference.cache
+C:\Users\Já\Documents\GitHub\Cv6_Dedicnost\Cv6_Dedicnosz\obj\Debug\Cv6_Dedicnosz.csproj.CoreCompileInputs.cache
+C:\Users\Já\Documents\GitHub\Cv6_Dedicnost\Cv6_Dedicnosz\obj\Debug\Cv6_Dedicnosz.exe
+C:\Users\Já\Documents\GitHub\Cv6_Dedicnost\Cv6_Dedicnosz\obj\Debug\Cv6_Dedicnosz.pdb
